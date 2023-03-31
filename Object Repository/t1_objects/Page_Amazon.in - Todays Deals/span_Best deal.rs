@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Best deal</name>
+   <tag></tag>
+   <elementGuidId>abb70aa0-08a6-4873-ab5d-5b3e401de391</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='grid-main-container']/div[2]/span[5]/ul/li[4]/div/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>bf33e81f-3678-4506-a8bc-10ff91eb98fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Best deal</value>
+      <webElementGuid>5e404b18-1014-451e-b945-1ee78ae08dd7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;grid-main-container&quot;)/div[@class=&quot;GridFilters-module__gridFilterSection_36xNFAVppWfx4i4otzVc2Y&quot;]/span[5]/ul[@class=&quot;a-nostyle&quot;]/li[@class=&quot;LinkFilterOption-module__linkFilterOptionListElement_AzC4LFMfeFF1CkwveJM01&quot;]/div[@class=&quot;a-row&quot;]/a[@class=&quot;LinkFilterOption-module__linkFilterOption_k3Xp4bgxEaBmcgTA0UAxc&quot;]/span[1]</value>
+      <webElementGuid>42e2484d-a83b-4747-a7af-bcab3e41e6c7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='grid-main-container']/div[2]/span[5]/ul/li[4]/div/a/span</value>
+      <webElementGuid>5ad430c2-9714-4798-9195-d10ccacad9ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lightning deal'])[1]/following::span[1]</value>
+      <webElementGuid>d1e32659-47fa-47ed-ae14-9b48c487d581</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deal of the day'])[1]/following::span[2]</value>
+      <webElementGuid>3001099f-db97-4d25-92f1-9457840fb307</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prime Programmes'])[1]/preceding::span[1]</value>
+      <webElementGuid>287d5392-f359-42bc-8c63-f2fdbe930279</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prime eligible'])[1]/preceding::span[1]</value>
+      <webElementGuid>84d5b84b-6d7c-4705-859b-3a192028d905</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Best deal']/parent::*</value>
+      <webElementGuid>b39a0aa4-6017-4b10-9c19-007f38eddf23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[5]/ul/li[4]/div/a/span</value>
+      <webElementGuid>9ae9bc53-c3a4-4a9f-b5ce-c4203c8294ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Best deal' or . = 'Best deal')]</value>
+      <webElementGuid>066031e9-4e5d-4dbe-b639-7f4566b4fc4c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

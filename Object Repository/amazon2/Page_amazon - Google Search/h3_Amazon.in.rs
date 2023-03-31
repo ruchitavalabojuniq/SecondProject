@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Amazon.in</name>
+   <tag></tag>
+   <elementGuidId>48528ec2-a51a-4913-b87a-e635bcca8688</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='rso']/div/div/div/div/div/div/div/div/div/a/h3</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h3.LC20lb.MBeuO.DKV0Md</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>13ada282-2ccf-4ab2-a05d-b762dae4311e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>LC20lb MBeuO DKV0Md</value>
+      <webElementGuid>5ac786ad-2074-4203-8fa9-f37f1f8bfce0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Amazon.in</value>
+      <webElementGuid>5d2a73e5-b054-46ad-a9fd-46330a6ff24e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rso&quot;)/div[@class=&quot;hlcw0c&quot;]/div[@class=&quot;MjjYud&quot;]/div[@class=&quot;g&quot;]/div[@class=&quot;BYM4Nd&quot;]/div[@class=&quot;eKjLze&quot;]/div[@class=&quot;g&quot;]/div[1]/div[@class=&quot;tF2Cxc&quot;]/div[@class=&quot;yuRUbf&quot;]/a[1]/h3[@class=&quot;LC20lb MBeuO DKV0Md&quot;]</value>
+      <webElementGuid>00579b5b-2e01-4fec-bce4-b4f08e4672a3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='rso']/div/div/div/div/div/div/div/div/div/a/h3</value>
+      <webElementGuid>b1918507-9b59-4b53-8a71-923282445c0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Web result with site links'])[1]/following::h3[1]</value>
+      <webElementGuid>85fd8ebe-6174-4df6-b140-0fe45a52861a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search Results'])[1]/following::h3[1]</value>
+      <webElementGuid>92960f63-af75-4dfd-8222-fa47fd9b3038</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Amazon.in'])[4]/preceding::h3[1]</value>
+      <webElementGuid>7ea0895c-e536-400b-8942-d05d0c01902a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='https://www.amazon.in'])[3]/preceding::h3[1]</value>
+      <webElementGuid>cf0cf84f-5bd7-4db6-850c-d92f7c58a769</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3</value>
+      <webElementGuid>8f15bf5a-5596-455d-88d7-61dfb08f4fe0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Amazon.in' or . = 'Amazon.in')]</value>
+      <webElementGuid>9a262c1d-ad96-4b27-92a1-43e8620722c2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

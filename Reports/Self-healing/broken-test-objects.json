@@ -1,3 +1,14 @@
 {
-  "brokenTestObjects" : [ ]
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/amazon2/Page_Amazon.in - Todays Deals/span_500 to 1,000",
+      "brokenLocator": "//div[@id\u003d\u0027grid-main-container\u0027]/div[2]/span[2]/ul/li[3]/div/a/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027All\u0027])[2]/following::span[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/amazon2/Page_Amazon.in - Todays Deals/span_500 to 1,000_neighbor.png"
+    }
+  ]
 }

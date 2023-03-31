@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_25 off or more</name>
+   <tag></tag>
+   <elementGuidId>e211a03f-635c-4d25-bfc0-075ceace9fad</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='grid-main-container']/div[2]/span[3]/ul/li[3]/div/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>fa2654d1-2375-4573-994e-fbb6d60ddec3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>25% off or more</value>
+      <webElementGuid>e0c63d54-1974-4f16-b414-e5203d604a2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;grid-main-container&quot;)/div[@class=&quot;GridFilters-module__gridFilterSection_36xNFAVppWfx4i4otzVc2Y&quot;]/span[3]/ul[@class=&quot;a-nostyle&quot;]/li[@class=&quot;LinkFilterOption-module__linkFilterOptionListElement_AzC4LFMfeFF1CkwveJM01&quot;]/div[@class=&quot;a-row&quot;]/a[@class=&quot;LinkFilterOption-module__linkFilterOption_k3Xp4bgxEaBmcgTA0UAxc&quot;]/span[1]</value>
+      <webElementGuid>d3c6f8bf-90d3-48f7-ad83-0ec9ba0c37ae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='grid-main-container']/div[2]/span[3]/ul/li[3]/div/a/span</value>
+      <webElementGuid>f432ea0b-4dc7-49e0-9e83-1b447ab6743f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All deals'])[2]/following::span[2]</value>
+      <webElementGuid>b0acd11e-bbae-4304-80c9-f9e77a891d28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Discount'])[1]/following::span[3]</value>
+      <webElementGuid>956deeae-e362-40b4-b5b7-2e3eaa490976</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Average Customer Review'])[1]/preceding::span[3]</value>
+      <webElementGuid>f7636624-17b3-40cc-b965-2d91dcbdc36e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='and up'])[1]/preceding::span[3]</value>
+      <webElementGuid>0a001ec3-d633-4479-a882-d1d0cf638608</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='25% off or more']/parent::*</value>
+      <webElementGuid>1b16687c-7c70-47e8-abd6-d92c2ab6d5dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[3]/ul/li[3]/div/a/span</value>
+      <webElementGuid>24ee3d01-61f0-406e-8c6c-0c52e6df718f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '25% off or more' or . = '25% off or more')]</value>
+      <webElementGuid>e72182c2-e253-4d53-9420-7512598e7bce</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

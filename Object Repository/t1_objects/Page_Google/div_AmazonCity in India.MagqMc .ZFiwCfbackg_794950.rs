@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_AmazonCity in India.MagqMc .ZFiwCfbackg_794950</name>
+   <tag></tag>
+   <elementGuidId>75b1b702-d101-4919-ac22-3ea0e2d2bf6b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.pcTkSc</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='Alh6id']/div/div/ul/li/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>cd7b7b07-97a6-43ba-941c-b67a5af6fa51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pcTkSc</value>
+      <webElementGuid>f599e03b-92aa-4c69-9ce6-14a234ecae52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AmazonCity in India.MagqMc .ZFiwCf{background-color:#fff;border:1px solid #dadce0;width:100%}.MagqMc.U48fD{padding:0;margin-top:16px}.MagqMc .Bi9oQd{display:none}.MagqMc{padding:0}.MagqMc:hover .LGwnxb{color:#202124}.sOmPcf .ZFiwCf{background-color:#fafafa}</value>
+      <webElementGuid>af727c09-f30c-44c1-96f7-67623eea6569</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Alh6id&quot;)/div[@class=&quot;erkvQe&quot;]/div[@class=&quot;OBMEnb&quot;]/ul[@class=&quot;G43f7e&quot;]/li[@class=&quot;sbct sbre sbhl&quot;]/div[@class=&quot;eIPGRd&quot;]/div[@class=&quot;pcTkSc&quot;]</value>
+      <webElementGuid>05bc06fe-e379-4e5f-ac81-77bc1b152827</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Alh6id']/div/div/ul/li/div/div[2]</value>
+      <webElementGuid>be30c285-3af9-4151-b41b-9e578d87bf60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/following::div[32]</value>
+      <webElementGuid>44da7149-f6e0-4f44-a574-0847446c7a93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign in'])[1]/following::div[38]</value>
+      <webElementGuid>01611c24-1d12-46cf-a1be-1ce54e014601</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/div[2]</value>
+      <webElementGuid>7b57cc85-0bca-46b9-8d9f-276bb93ccbaf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'AmazonCity in India.MagqMc .ZFiwCf{background-color:#fff;border:1px solid #dadce0;width:100%}.MagqMc.U48fD{padding:0;margin-top:16px}.MagqMc .Bi9oQd{display:none}.MagqMc{padding:0}.MagqMc:hover .LGwnxb{color:#202124}.sOmPcf .ZFiwCf{background-color:#fafafa}' or . = 'AmazonCity in India.MagqMc .ZFiwCf{background-color:#fff;border:1px solid #dadce0;width:100%}.MagqMc.U48fD{padding:0;margin-top:16px}.MagqMc .Bi9oQd{display:none}.MagqMc{padding:0}.MagqMc:hover .LGwnxb{color:#202124}.sOmPcf .ZFiwCf{background-color:#fafafa}')]</value>
+      <webElementGuid>3835ca59-35d1-4d9d-9e5e-4edb9356cecc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

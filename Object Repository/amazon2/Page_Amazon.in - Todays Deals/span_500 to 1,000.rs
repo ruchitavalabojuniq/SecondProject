@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_500 to 1,000</name>
+   <tag></tag>
+   <elementGuidId>0249f124-2364-4ace-aa1f-1e123ea8ade1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='grid-main-container']/div[2]/span[2]/ul/li[3]/div/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b5806bb7-3c59-45c0-8d6b-e183f8e87da4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>₹500 to ₹1,000</value>
+      <webElementGuid>b6c669f1-43cc-49b8-84ca-bb2216129d67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;grid-main-container&quot;)/div[@class=&quot;GridFilters-module__gridFilterSection_36xNFAVppWfx4i4otzVc2Y&quot;]/span[2]/ul[@class=&quot;a-nostyle&quot;]/li[@class=&quot;LinkFilterOption-module__linkFilterOptionListElement_AzC4LFMfeFF1CkwveJM01&quot;]/div[@class=&quot;a-row&quot;]/a[@class=&quot;LinkFilterOption-module__linkFilterOption_k3Xp4bgxEaBmcgTA0UAxc&quot;]/span[1]</value>
+      <webElementGuid>38ff4bbe-fe9b-404f-b10f-fa0126a5b7e7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='grid-main-container']/div[2]/span[2]/ul/li[3]/div/a/span</value>
+      <webElementGuid>462ca1a5-036b-4ab5-a630-56a33fa9e943</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Under ₹500'])[2]/following::span[1]</value>
+      <webElementGuid>53b97e26-dfca-43e3-a0d2-fc69479e9f91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All'])[2]/following::span[2]</value>
+      <webElementGuid>f537b237-fdfc-43e9-a6e5-c6e9a56820a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹1,000 to ₹2,000'])[1]/preceding::span[1]</value>
+      <webElementGuid>e9cda9f0-09c9-48bc-b921-465308247a97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹2,000 to ₹5,000'])[1]/preceding::span[2]</value>
+      <webElementGuid>69edd98d-0810-488a-ad27-0a5d80c93d06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='₹500 to ₹1,000']/parent::*</value>
+      <webElementGuid>a0312d52-fdcd-408c-a372-5a9859291898</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/ul/li[3]/div/a/span</value>
+      <webElementGuid>189d5e4d-c823-44ac-b8ca-f3c0b900981d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '₹500 to ₹1,000' or . = '₹500 to ₹1,000')]</value>
+      <webElementGuid>5027a9f7-005a-4c5b-bb93-95f2a12f2783</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
